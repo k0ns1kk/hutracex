@@ -1,0 +1,6 @@
+data/
+node_modules/
+# Código heredado minificado: se reformatea en un commit aislado (solo formato)
+# al inicio de la Etapa 2. Quitar estas líneas en ese momento.
+server.js
+public/
